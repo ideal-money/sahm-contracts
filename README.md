@@ -11,6 +11,6 @@ Sahm is a limited supply ERC20 token that uses [BrightID](https://brightid.org) 
   - and 0.5 tokens will be minted for a DAO to be spent to improve and promote the system
 - In the 2nd step, 1.5 million tokens will be minted for next 2 millions users.
 - In the 3rd step, 1.5 million tokens will be minted for next 4 millions users.
-- This continues until in the 13rd step, 1.5 million tokens will be minted for 4096 millions
+- This continues until in the 13rd step, 1.5 million tokens will be minted for 4096 millions users.
 
 
