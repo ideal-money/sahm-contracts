@@ -15,5 +15,6 @@ Sahm is a limited supply ERC20 token that uses [BrightID](https://brightid.org) 
 - There is a limit on maximum balance of tokens users can HODL and every user can have at most 20 Sahm tokens.
 
 ## Blockchain
-- Sahm is deployed on [IDChain](https://medium.com/brightid/introducing-idchain-392c76c31d73)
-
+- Sahm is deployed on [IDChain](https://medium.com/brightid/introducing-idchain-392c76c31d73) at [0x3D454bB744cbf80A38e4939aaa0e185628420D2F](https://explorer.idchain.one/tokens/0x3D454bB744cbf80A38e4939aaa0e185628420D2F/token_holders)
+- IDChain users get lifetime supply of IDChain native tokens and can send transactions freely.
+- IDChain is a POA chain and its validators are elected democratically based on one vote per unique verified BrightID user.
